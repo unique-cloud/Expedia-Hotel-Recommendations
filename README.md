@@ -1,2 +1,3 @@
-# Expedia-Hotel-Recommendations
-Machine learning practice using the project on Kaggle - Expedia Hotel Recommendations
+# Expedia Hotel Recommandations
+
+This is a machine learning competition from Kaggle. Link: https://www.kaggle.com/c/expedia-hotel-recommendations
